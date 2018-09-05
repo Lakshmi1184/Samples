@@ -1,2 +1,2 @@
 # Samples
-Created invoice Total form
+Invoice total form
