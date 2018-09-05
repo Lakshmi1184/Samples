@@ -1,2 +1,0 @@
-# Samples
-Invoice total form
